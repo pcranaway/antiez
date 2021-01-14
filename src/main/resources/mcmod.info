@@ -1,0 +1,15 @@
+[
+{
+  "modid": "AntiEZ",
+  "name": "AntiEZ",
+  "description": "Blocks toxic messages",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["pcranaway"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
